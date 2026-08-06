@@ -87,6 +87,15 @@ python main.py
 
 ---
 
+---
+
+## 💡 Project Intent & Disclaimer
+
+* **Educational & Portfolio Use:** This repository was created as a hands-on project to upskill in Python programming, Optical Character Recognition (OCR) implementation, state management, and Git workflows.
+* **AI Collaboration:** Built with pair-programming support from **Google Gemini** for architectural planning, code optimization, and documentation.
+* **Non-Commercial Notice:** This project is strictly for personal, non-commercial, and educational purposes. 
+* **Intellectual Property:** *Zenless Zone Zero*, character names, and assets are trademarks and copyright of **HoYoverse (COGNOSPHERE PTE. LTD.)**. This tool is an unofficial fan-made utility and is not affiliated with or endorsed by HoYoverse.
+
 ## 📝 License
 
 Distributed under the MIT License. See `LICENSE` for more information.

@@ -87,7 +87,14 @@ class ZZZNamePicker:
         for text in raw_results:
             clean_str = text.strip()
             if self._is_valid_name(clean_str, active_ignore_list):
-                extracted_names.add(clean_str)
+                if clean_str == "Shunguang":
+                    continue
+                if (clean_str == "Ye") and ("Ye Shunguang" not in extracted_names):
+                    extracted_names.add("Ye Shunguang")
+                elif clean_str == "Orphie &":
+                    extracted_names.add("Orphie & Magus")
+                else:
+                    extracted_names.add(clean_str)
 
         return extracted_names
 

@@ -1,7 +1,3 @@
-Here is a clean, professional `README.md` tailored specifically for your project. You can copy and paste this directly into a `README.md` file in your PyCharm project root!
-
----
-
 # Zenless Zone Zero — OCR Random Agent Picker
 
 An automated Python-based random character picker for **Zenless Zone Zero (ZZZ)**. Instead of manually entering character names, simply drag and drop a screenshot of your agent roster (e.g., from HoYoLAB Battle Records), and the tool uses Optical Character Recognition (OCR) to parse, filter, and randomly pick an agent for you.

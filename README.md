@@ -6,15 +6,15 @@ An automated Python-based random character picker for **Zenless Zone Zero (ZZZ)*
 
 ## ✨ Features
 
-* **📸 Image Text Extraction:** Powered by `easyocr` to read character names directly from game screenshots.
-* **🧠 Smart Noise & Username Filtering:**
+* **Image Text Extraction:** Powered by `easyocr` to read character names directly from game screenshots.
+* **Smart Noise & Username Filtering:**
 * Automatically filters out UI clutter (e.g., *"Lv. 60"*, *"UID"*, *"Battle Records"*).
 * Auto-detects the player's username near the header and ignores it so it's never mistaken for an agent.
 
 
-* **💾 Persistent Drawing Pool:** Remembers picked agents in a local `picked_names.txt` file so progress carries over between sessions.
-* **🔄 Automatic Pool Reset:** Automatically clears history and resets the pool once every extracted agent from the screenshot has been drawn.
-* **🖱️ Fast CLI Workflow:** Works with simple drag-and-drop file paths right in your terminal.
+* **Persistent Drawing Pool:** Remembers picked agents in a local `picked_names.txt` file so progress carries over between sessions.
+* **Automatic Pool Reset:** Automatically clears history and resets the pool once every extracted agent from the screenshot has been drawn.
+* **Fast CLI Workflow:** Works with simple drag-and-drop file paths right in your terminal.
 
 ---
 

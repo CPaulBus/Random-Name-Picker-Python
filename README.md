@@ -1,4 +1,4 @@
-# The Bangboo Scanner
+# Bangboo Scanner
 > **Automated OCR Screenshot Data Extractor & State Manager**
 
 A Python CLI tool using computer vision (`EasyOCR`) to extract, parse, and filter structured text data directly from graphical application screenshots. It utilizes positional noise-filtering heuristics and set mathematics to maintain persistent selection pools across program restarts.

@@ -1,3 +1,5 @@
+<img width="180" height="180" alt="bangboo-scanner" src="https://github.com/user-attachments/assets/9253842c-6a93-4424-a2d4-9bc73f6e1d66" />
+
 # Bangboo Scanner
 > **Automated OCR Screenshot Data Extractor & State Manager**
 

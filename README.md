@@ -33,6 +33,11 @@ Now available both as Python source code and as a standalone Windows executable 
 2. Download the latest `Bangboo-Scanner.exe` binary.
 3. Run `Bangboo-Scanner.exe` directly on Windows (no Python setup required).
 
+> 💡 **Note on Windows SmartScreen Warning:**
+> Because this executable is an open-source, unsigned binary, Windows Defender / SmartScreen may display a *"Windows protected your PC / Unknown Publisher"* pop-up.
+> * **To run:** Click **More info** $\rightarrow$ **Run anyway**.
+> * **Alternative:** Right-click `main.exe` $\rightarrow$ **Properties** $\rightarrow$ check **Unblock** at the bottom $\rightarrow$ click **Apply**.
+
 ---
 
 ## 💻 Option 2: Run from Source

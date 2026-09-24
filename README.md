@@ -51,8 +51,8 @@ Make sure you have Python installed on your machine.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git)
-   cd YOUR_REPO_NAME
+   git clone https://github.com/CPaulBus/Random-Name-Picker-Python.git
+   cd Random-Name-Picker-Python
 
 2. **Create and activate a virtual environment:**
 * **Windows:**
